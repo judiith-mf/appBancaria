@@ -1,0 +1,10 @@
+.container__cabecera{
+    background-color: #ff0f1d;
+    display: flex;
+    justify-content: start;
+}
+.container__cabecera img{
+    height: 70px;
+    padding-top: 5px;
+    padding-left: 30px;
+}
